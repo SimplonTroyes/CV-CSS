@@ -79,7 +79,8 @@ header, section, footer {
 
 
 
-/*  Exemples avec le dé       */
+/*  Exemples avec le dé       
+    et la propriété flex  */
 
 .pip {
     display: block;
