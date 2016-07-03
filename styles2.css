@@ -80,7 +80,10 @@ header, section, footer {
 
 
 /*  Exemples avec le dé       
-    et la propriété flex  */
+    et la propriété flex  
+https://la-cascade.io/flexbox-un-coup-de-des/
+https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Utilisation_des_flexbox_en_CSS
+*/
 
 .pip {
     display: block;
